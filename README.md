@@ -2,7 +2,7 @@
 
 # The effficiency of absorption is calculated using the following expression:
 
-    $$ \eta(\epsilon) = \frac{ \int_0^{\epsilon}{\sigma(\epsilon')d\epsilon'}}{{\sigma(\epsilon)}} $$
+#    $` \eta(\epsilon) = \frac{ \int_0^{\epsilon}{\sigma(\epsilon')d\epsilon'}}{{\sigma(\epsilon)}} `$
 
 
 ## Input:
