@@ -1,4 +1,4 @@
-# Script to calculate mechanical properties of foams (efficiency of absorption $\eta(\epsilon)$, compression modulus, work of compression, onset of plasticity, etc) from a strain-stress curve ($\sigma$ as a function of $\epsilon$). 
+# Script to calculate mechanical properties of foams (efficiency of absorption $\eta(\epsilon)$, compression modulus, work of compression, plateau onset, etc) from a strain-stress curve ($\sigma$ as a function of $\epsilon$). 
 
 # The effficiency of absorption is calculated using the following expression:
 
