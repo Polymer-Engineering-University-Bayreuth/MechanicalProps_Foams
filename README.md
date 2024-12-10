@@ -16,7 +16,7 @@ NOTE: your stress-strain curves must have epsilon (= strain) in percentage and s
    OR
    
    
-- excel file (.xls or .xlsx) with worksheets containing 2 columns (First column = $\epsilon$, second column = $\sigma$). You will need to provide the names of all worksheets you want to analyse.
+- excel file (.xls or .xlsx) with worksheets containing 2 columns (First column = $\epsilon$, second column = $\sigma$). You will need to provide the names of all worksheets you want to analyse (or use the option sheet_names = "all" in the input cell of the script.).
 
    OR
    
