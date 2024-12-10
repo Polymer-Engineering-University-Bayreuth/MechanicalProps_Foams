@@ -1,5 +1,7 @@
 # Script to calculate mechanical properties of foams (efficiency of absorption $\eta(\epsilon)$, compression modulus, work of compression, plateau onset, etc) from a strain-stress curve ($\sigma$ as a function of $\epsilon$). 
 
+## Online tutorial: [Click here to watch the video](https://mms.uni-bayreuth.de/Panopto/Pages/Viewer.aspx?id=2e1e92bd-504f-49f6-9d90-b068007446bf)
+
 # The effficiency of absorption is calculated using the following expression:
 
 #    $` \eta(\epsilon) = \frac{ \int_0^{\epsilon}{\sigma(\epsilon')d\epsilon'}}{{\sigma(\epsilon)}} `$
@@ -33,6 +35,5 @@ TIP: Check the files and folders provided with this script (file 'inputs.zip') t
   - A two-column .txt file named "eta_filename_sheetname.txt" with the $\eta(\epsilon)$ curve (first column = $\epsilon$, second column = efficiency or $\eta$).
   - If multiple files (from a given input folder) are treated, additional txt files with the different properties (one property per file) are generated. The files are named: Sigma_Plateau.txt, Slope_Plateau.txt, W_comp.txt, Epsilon_Densification.txt, Compression_Modulus.txt, Epsilon_Plateau.txt and Eta_max.txt. In each file, the average and standard deviation of all worksheets of a given input file are provided (in case of csv or txt files, the standard deviation is zero). A csv file named General_statistics.csv is also generated, where all averages and standard deviations of all calculated properties of all input files are compared.
   
-## Online tutorial: [Click here to watch the video](https://mms.uni-bayreuth.de/Panopto/Pages/Viewer.aspx?id=2e1e92bd-504f-49f6-9d90-b068007446bf)
   
 ##### Script written by Rodrigo Q. de Albuquerque @11July2022 (experimental collaborators: Du lan, Johannes Meuchelboeck), University of Bayreuth, Germany
