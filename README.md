@@ -37,4 +37,4 @@ TIP: Check the files and folders provided with this script (file 'inputs.zip') t
   - If multiple files (from a given input folder) are treated, additional txt files with the different properties (one property per file) are generated. The files are named: Sigma_Plateau.txt, Slope_Plateau.txt, W_comp.txt, Epsilon_Densification.txt, Compression_Modulus.txt, Epsilon_Plateau.txt and Eta_max.txt. In each file, the average and standard deviation of all worksheets of a given input file are provided (in case of csv or txt files, the standard deviation is zero). A csv file named General_statistics.csv is also generated, where all averages and standard deviations of all calculated properties of all input files are compared.
   
   
-##### Script written by Rodrigo Q. de Albuquerque @11July2022 (experimental collaborators: Du lan, Johannes Meuchelboeck), University of Bayreuth, Germany
+##### Script written by Rodrigo Q. de Albuquerque @11July2022 (experimental collaborators: Du lan, Johannes Meuchelboeck; theoretical collaborators: Jonathan Meierhofer), University of Bayreuth, Germany
