@@ -7,7 +7,6 @@
 #    $` \eta(\epsilon) = \frac{ \int_0^{\epsilon}{\sigma(\epsilon')d\epsilon'}}{{\sigma(\epsilon)}} `$
 
 For more infos, see the paper below (DOI: 10.1002/pol.20230704): Albuquerque, Meuchelböck, Ruckdäschel, J. Pol. Sci. 62 (2024) 1034-1043.
-<span style="color: red;">Albuquerque, Meuchelböck, Ruckdäschel, J. Pol. Sci. 62 (2024) 1034-1043.</span>
 
 ## Input:
 
